@@ -1,16 +1,13 @@
-## Hi there 👋
+# Okrasp
 
-<!--
-**okrasp/okrasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Okrasp](https://okrasp.com/) is a next-gen java runtime application self-protection tool.
 
-Here are some ideas to get you started:
+Welcome to react us bugs or feature requests here.🙂 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Getting Started
+
+Head over to [our website](https://okrasp.com/) to try our tool.
+
+## Features
+
+[See here](https://okrasp.com/#features) for more info on Okrasp's features.
