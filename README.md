@@ -2,7 +2,7 @@
 
 [Okrasp](https://okrasp.com/) is a next-gen java runtime application self-protection tool.
 
-Welcome to react us bugs or feature requests here.🙂 
+Please feel free to give us feedback on any issue or feature request here.🙂 
 
 ## Getting Started
 
