@@ -8,6 +8,8 @@ Please feel free to give us feedback on any issue or feature request here.🙂
 
 Head over to [our website](https://okrasp.com/) to try our tool.
 
+[Setup](https://blog.okrasp.com/guides/setup/)
+
 ## Features
 
 [See here](https://okrasp.com/#features) for more info on Okrasp's features.
