@@ -13,3 +13,6 @@ Head over to [our website](https://okrasp.com/) to try our tool.
 ## Features
 
 [See here](https://okrasp.com/#features) for more info on Okrasp's features.
+
+## Develop your own module
+[Step-by-Step Guide](https://github.com/okrasp/okrasp/wiki)
